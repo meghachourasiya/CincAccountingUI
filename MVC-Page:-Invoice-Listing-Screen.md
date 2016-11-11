@@ -22,7 +22,7 @@
 	</tr>
 </tbody></table>
 
-### Devexpress Dropdown Edit
+### Devexpress Dropdown Edit and Dev Express Calendar
 
 <table id="datepickerFrom_ET" class="dxeValidStEditorTable dxeRoot_CincAccounting">
 	<tbody><tr>

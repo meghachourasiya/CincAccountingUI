@@ -177,3 +177,42 @@ dxo.AfterCreate();
 		</tbody></table></td>
 	</tr>
 </tbody></table>
+
+### Dev Express Popup:
+<div id="pcAlert_PW-1" class="dxpcLite_CincAccounting dxpclW" style="height:100px;width:300px;cursor:default;z-index:10000;display: block;visibility: visible;">
+	<div class="dxpc-mainDiv dxpc-shadow">
+		<div class="dxpc-header dxpc-withBtn" style="cursor:move;-webkit-user-select:none;" id="pcAlert_PWH-1">
+			<div class="dxpc-closeBtn" id="pcAlert_HCB-1">
+				<img class="dxWeb_pcCloseButton_CincAccounting" src="/AccountingDev/DXR.axd?r=1_35-pHoKd" alt="[Close]">
+			</div><div class="dxpc-headerContent">
+				<span class="dxpc-headerText dx-vam" id="pcAlert_PWH-1T">Alert</span>
+			</div><b class="dx-clear"></b>
+		</div><div class="dxpc-contentWrapper">
+			<div class="dxpc-content" id="pcAlert_PWC-1">
+				<div class="line"><span id="headeralert"></span></div><br><div style="float:right;" class="line"><div class="dxbButton_CincAccounting button dxbButtonSys dxbTSys" id="btnCloseAlert" style="width:80px;-webkit-user-select:none;">
+	<div class="dxb" id="btnCloseAlert_CD">
+		<div class="dxb-hbc">
+			<input id="btnCloseAlert_I" class="dxb-hb" value="Ok" type="button" name="btnCloseAlert">
+		</div><span class="dx-vam">Ok</span>
+	</div>
+</div><script id="dxss_359841106" type="text/javascript">
+<!--
+ASPx.AddHoverItems('btnCloseAlert',[[['dxbButtonHover_CincAccounting'],[''],[''],['','TC']]]);
+ASPx.AddPressedItems('btnCloseAlert',[[['dxbButtonPressed_CincAccounting'],[''],[''],['','TC']]]);
+ASPx.AddDisabledItems('btnCloseAlert',[[['dxbDisabled_CincAccounting'],[''],[''],['','TC']]]);
+ASPx.AddSelectedItems('btnCloseAlert',[[['dxbf'],[''],['CD']]]);
+
+var dxo = new MVCxClientButton('btnCloseAlert');
+dxo.InitGlobalVariable('btnCloseAlert');
+dxo.SetProperties({'useSubmitBehavior':false,'causesValidation':false});
+dxo.SetEvents({
+	'Click':function(s, e){pcAlert.Hide(); }
+});
+dxo.AfterCreate();
+
+//-->
+</script></div><b class="Clear"></b>
+			</div>
+		</div>
+	</div>
+</div>

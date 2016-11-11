@@ -1,3 +1,12 @@
+### Dev Express Loading Panel:
+
+<table class="dxlpLoadingPanel_CincAccounting dxlpControl_CincAccounting" id="InvoiceLoadingPanel" style="position:absolute;left:0px;top:0px;z-index:30000;display:none;">
+	<tbody><tr>
+		<td class="dx" style="padding-right:0px;"><img class="dxlp-loadingImage dxlp-imgPosLeft" src="/AccountingDev/DXR.axd?r=1_35-pHoKd" alt="" style="vertical-align:middle;"></td><td class="dx" style="padding-left:0px;"><span id="InvoiceLoadingPanel_TL">Voiding Invoice(s)</span></td>
+	</tr>
+</tbody></table>
+
+
 ### Devexpress Text Box:
 
 <table class="dxeTextBoxSys dxeTextBox_CincAccounting dxeTextBoxDefaultWidthSys" id="txtVendorInvoiceNum" style="width:140px;">

@@ -6,6 +6,9 @@
 	</tr>
 </tbody></table>
 
+### Dev Express Hyperlink:
+
+<a tabindex="300" class="dxeHyperlink_CincAccounting linkwithonclick-nocolor" onclick="return ASPx.SEClick('lnkClose', event)" id="lnkClose">Close</a>
 
 ### Devexpress Text Box:
 
